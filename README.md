@@ -18,3 +18,11 @@
 
 ### Praktikum 5
 ![](https://github.com/yumarakhas/state-management-next.js/blob/main/image/Cuplikan%20layar%202025-05-08%20150950.png)
+
+### Tugas 
+1. Bandingkan performa antara Context API, Zustand, dan Redux
+2. Diskusikan kapan sebaiknya menggunakan masing-masing solusi
+
+### Jawaban
+1. 
+2. 

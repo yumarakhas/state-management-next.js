@@ -24,5 +24,10 @@
 2. Diskusikan kapan sebaiknya menggunakan masing-masing solusi
 
 ### Jawaban
-1. 
-2. 
+1. Context API    : Kompleksitas rendah, performa kurang optimal 
+   Zustand        : Kompleksitas sedang, performa tinggi
+   Redux Toolkit  : Kompleksitas tinggi, performa sedang
+   
+2. Context API    : State-nya sangat sederhana dan jarang berubah (misalnya: tema, bahasa, atau autentikasi).
+   Zustand        : Butuh global state yang ringan dan efisien.
+   Redux Toolkit  : Aplikasi sangat kompleks dan butuh pengelolaan state yang besar.
